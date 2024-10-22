@@ -4,6 +4,7 @@ vim.cmd.colorscheme("retrobox")
 vim.g.mapleader = " "
 
 vim.opt.number = true
+vim.opt.colorcolumn = "80"
 
 -- netrw settings
 vim.g.netrw_banner = 0

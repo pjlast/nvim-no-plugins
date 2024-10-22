@@ -2,6 +2,9 @@
 
 Experimental Neovim config that doesn't use any external plugins.
 
+The idea of this setup is to use Neovim as a toolbox and get comfortable
+with your Lua config to glue different tools together.
+
 ## Goals
 
 It should offer the following:
